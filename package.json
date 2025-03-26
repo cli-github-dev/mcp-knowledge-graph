@@ -1,0 +1,19 @@
+{
+  "name": "mcp-knowledge-graph",
+  "version": "1.0.0",
+  "description": "A knowledge graph memory system using MCP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "knowledge-graph",
+    "memory"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/mcp-core": "^1.0.0"
+  }
+}
